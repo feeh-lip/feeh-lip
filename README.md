@@ -64,18 +64,13 @@ public class AboutMe {
 
 ## ⭐ Informações sobre minha conta GitHub
   
-<!-- <p align="center">
-<a href="https://github.com/feeh-lip">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=feeh-lip&theme=tokyonight"/>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh-lip&theme=dracula&hide_langs_below=1" />
 </a>
-</p> -->
 
-<p align="left">
-<a href="https://github.com/feeh-lip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=feeh-lip&theme=default&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh-lip&theme=default&layout=compact&langs_count=8"/>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=feeh-lip&show_icons=true&theme=dracula&line_height=27" alt="Felipe github stats"/>
 </a>
-</p>
 
 <br/>
 <br/>
