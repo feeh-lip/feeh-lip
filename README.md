@@ -1,9 +1,11 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=feeh-lip&repo=feeh-lip&countColorcountColor)
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:feeh-lip"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@uberlandia?v=1" align="right">
+</p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-
-### Sou desenvolvedor .NET a um pouco mais de 2 anos com experiência em trabalho em equipe.
+### Focado no negócio, experiência e comportamento do usuário, curioso e pró-ativo com ideias/opiniões sobre produtos e forte capacidade de comunicação me definem como profissional. Atuei em grandes projetos para grandes clientes como Itau e Apporteira.
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
@@ -17,7 +19,7 @@ public class AboutMe {
  var name = "Felipe Silva de Souza";
  // Habilidades e tecnologias
  [Display(Name = "C#")]
- var csharp = new List<string>(".NET CORE", "ASP.NET CORE");
+ var csharp = new List<string>(".NET CORE", "ASP.NET CORE", ".NET FRAMEWORK");
  [Display(Name = "JS")]
  var javascript = new List<string>("React", "React-Native", "JQuery", "Node.Js");
  [Display(Name = "SQL")]
@@ -80,10 +82,10 @@ public class AboutMe {
 <br/>
 
 ##   🤝 Contato
-<a href="mailto:BrenoSilvaFortunato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/breno-silva-fortunato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YatoEbisu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send?text=Olá&phone=+5534991794987"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:feeh.kcs@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipe-silva-de-souza-b5a113195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/feeh-lip"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</a>
 
 
 
