@@ -63,13 +63,12 @@ public class AboutMe {
 
 
 ## ⭐ Informações sobre minha conta GitHub
-  
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh-lip&theme=dracula&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=feeh-lip&show_icons=true&theme=dracula&line_height=27" alt="Felipe github stats"/>
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=feeh-lip&show_icons=true&theme=dracula&line_height=27" alt="Felipe github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh-lip&theme=dracula&hide_langs_below=1" />
 </a>
 
 <br/>
