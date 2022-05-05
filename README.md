@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### Focado no negócio, experiência e comportamento do usuário, curioso e pró-ativo com ideias/opiniões sobre produtos e forte capacidade de comunicação me definem como profissional. Atuei em grandes projetos para grandes clientes como Itau e Apporteira.
+### Focado no negócio, experiência e comportamento do usuário, curioso e pró-ativo com ideias/opiniões sobre produtos e forte capacidade de comunicação me definem como profissional. Atuei em grandes projetos para grandes clientes como Itau, Apporteira, Casas Bahia, Ponto Frio e Renner.
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
